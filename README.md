@@ -1,3 +1,6 @@
 # Sistem-Monitoring-dan-Pengatur-Suhu-Pada-Kandang-Anak-Ayam-Berbasis-IoT-Blynk
 Membuat sistem monitoring dan pengatur suhu pada kandang ayam yang dapat dikontrol secara manual dan otomatis berbasis IoT ESP32 sebagai kontroller. Kemudian komponen untuk mendeteksi suhu dan kelembapan menggunakan sensor DHT22, Blynk berfungsi sebagai monitor. Lalu untuk mengontrol suhu pada kandang anak ayam menggunakan Kipas 12v dan lampu pijar . Dimana jika suhu udara panas lebih dari 32°C dan suhu udara dinggin kurang dari 30°C, adanya pengontrol suhu pada kandang anak ayam suhu akan di normalkan menjadi 30°-32°C. Dengan begitu akan membuat suhu normal dan stabil yang membuat pertumbuhan ayam mejadi lebih baik.
+![Schematic selfbalancing](https://github.com/user-attachments/assets/7b9c52c1-5545-49a2-89ef-c1e33f4c282f)
+
 ![PROTOTYP IOT KANDANG AYAM](https://github.com/user-attachments/assets/3edcd653-fe57-43d2-bfac-70f8f920a9ec)
+<img width="2511" height="1941" alt="SCHEMATIC_IOT" src="https://github.com/user-attachments/assets/a6b0d8bf-bf4b-478b-b644-0f99ff1612c0" />
